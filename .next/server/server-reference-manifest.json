@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40d526bf39cefcf0e85ee1b82bb633018104ba8e21": {
+      "workers": {
+        "app/page": {
+          "moduleId": 48588,
+          "async": false
+        }
+      },
+      "filename": "app/page.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "O95UsNKudbeUruMtJzOmeXIhGj8w7uhVapUKjrCEPsE="
+}

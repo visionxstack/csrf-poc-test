@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/confirm/layout,_N_T_/confirm/page,_N_T_/confirm"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/confirm/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/9bd43bdb6efda60a7606c83446489c2b39730be66eb35ecfc7ec539c96f4caa5/$/confirm",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/confirm/page"
+    },
+    "isFallback": false
+  }
+}
